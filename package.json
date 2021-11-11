@@ -1,0 +1,19 @@
+{
+  "name": "starter",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "refactorCode.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshoryihsan/techtest-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshoryihsan/techtest-/issues"
+  },
+  "homepage": "https://github.com/anshoryihsan/techtest-#readme",
+  "description": ""
+}
