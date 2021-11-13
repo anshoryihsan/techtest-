@@ -1,6 +1,7 @@
 {
   "name": "starter",
   "version": "0.0.0",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +16,9 @@
     "url": "https://github.com/anshoryihsan/techtest-/issues"
   },
   "homepage": "https://github.com/anshoryihsan/techtest-#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "debug": "^4.3.2",
+    "morgan": "^1.10.0"
+  }
 }
